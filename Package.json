@@ -24,16 +24,3 @@
     "gh-pages": "^5.0.0"
   }
 }
-Replace YOUR_USERNAME with your GitHub username.
-Step 3: Deploy to GitHub Pages
-Follow the steps in my previous response to deploy your app to GitHub Pages.
-Option 2: Use an Online Code Editor
-If you prefer to work in an online environment, you can use a tool like CodeSandbox or StackBlitz. Here’s how:
-
-Step 1: Create a New Project
-Go to CodeSandbox or StackBlitz.
-Create a new React + TypeScript project.
-Step 2: Add Files
-Replace the contents
-
-
